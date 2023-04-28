@@ -9,7 +9,7 @@ REQUIRES = [
     "botbuilder-schema==4.14.3",
     "botframework-connector==4.14.3",
     "botbuilder-core==4.14.3",
-    "yarl<=1.4.2",
+    "yarl==1.9.2",
     "aiohttp==3.8.4",
 ]
 
